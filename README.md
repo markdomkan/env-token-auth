@@ -1,6 +1,6 @@
 # env-token-auth
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/markdomkan/env-token-auth.svg?style=flat-square)](https://packagist.org/packages/markdomkan/env-token-auth)
-[![Total Downloads](https://img.shields.io/packagist/dt/markdomkan/env-token-auth.svg?style=flat-square)](https://packagist.org/packages/markdomkan/env-token-auth)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/mark-domkan/env-token-auth.svg?style=flat-square)](https://packagist.org/packages/mark-domkan/env-token-auth)
+[![Total Downloads](https://img.shields.io/packagist/dt/mark-domkan/env-token-auth.svg?style=flat-square)](https://packagist.org/packages/mark-domkan/env-token-auth)
 
 Adds the ability to use token saved in env for the auth:api middleware.
 
